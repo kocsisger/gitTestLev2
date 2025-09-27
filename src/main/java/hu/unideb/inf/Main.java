@@ -11,7 +11,7 @@ public class Main {
         c.doSg();
         //////////////////////////
         //Új sort adtam hozzá
-
+//még egy
         IHuman h = new Student();
         h.setName("Sanyi");
         System.out.println(h.getName());
