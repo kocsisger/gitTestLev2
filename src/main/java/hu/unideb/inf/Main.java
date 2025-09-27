@@ -10,6 +10,7 @@ public class Main {
         c.setS(new MyServer());
         c.doSg();
         //////////////////////////
+        //Új sort adtam hozzá
 
         IHuman h = new Student();
         h.setName("Sanyi");
