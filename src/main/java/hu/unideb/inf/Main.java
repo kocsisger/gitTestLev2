@@ -12,6 +12,7 @@ public class Main {
         //////////////////////////
         //Új sort adtam hozzá
 //még egy
+        ///Megint valami
         IHuman h = new Student();
         h.setName("Sanyi");
         System.out.println(h.getName());
